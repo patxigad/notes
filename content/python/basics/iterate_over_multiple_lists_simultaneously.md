@@ -28,4 +28,4 @@ for name, age in zip(names, ages):
     Marco 25
     Nancy 63
     Sally 23
-
+    

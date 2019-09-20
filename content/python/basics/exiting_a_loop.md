@@ -28,7 +28,7 @@ for army in armies:
     Red Army
     Blue Army
     Blue Army Found! Stopping.
-
+    
 
 Notice that the loop stopped after the conditional if statement was satisfied.
 
@@ -50,4 +50,4 @@ else:
     Blue Army
     Green Army
     Looped Through The Whole List, No Orange Army Found
-
+    

@@ -24,7 +24,7 @@ np.random.seed(0)
 ```
 
     Using TensorFlow backend.
-
+    
 
 ## Generate Training Data
 

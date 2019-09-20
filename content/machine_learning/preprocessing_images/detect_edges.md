@@ -49,5 +49,5 @@ plt.show()
 ```
 
 
-![png](detect_edges_8_0.png)
+![png](detect_edges_files/detect_edges_8_0.png)
 

@@ -137,5 +137,5 @@ plt.show()
 ```
 
 
-![png](matplotlib_back_to_back_bar_plot_6_0.png)
+![png](matplotlib_back_to_back_bar_plot_files/matplotlib_back_to_back_bar_plot_6_0.png)
 

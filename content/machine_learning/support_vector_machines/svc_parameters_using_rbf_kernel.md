@@ -103,7 +103,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_9_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_9_0.png)
 
 
 ## Classify Using a Linear Kernel
@@ -125,7 +125,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_11_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_11_0.png)
 
 
 ## Classify Using a RBF Kernel
@@ -167,7 +167,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_15_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_15_0.png)
 
 
 ### Gamma = 1.0
@@ -189,7 +189,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_17_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_17_0.png)
 
 
 ### Gamma = 10.0
@@ -211,7 +211,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_19_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_19_0.png)
 
 
 ### Gamma = 100.0
@@ -233,7 +233,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_21_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_21_0.png)
 
 
 ## C - The Penalty Parameter
@@ -259,7 +259,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_24_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_24_0.png)
 
 
 ### C = 10
@@ -281,7 +281,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_26_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_26_0.png)
 
 
 ### C = 1000
@@ -303,7 +303,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_28_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_28_0.png)
 
 
 ### C = 10000
@@ -325,7 +325,7 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_30_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_30_0.png)
 
 
 ### C = 100000
@@ -347,5 +347,5 @@ plt.show()
 ```
 
 
-![png](svc_parameters_using_rbf_kernel_32_0.png)
+![png](svc_parameters_using_rbf_kernel_files/svc_parameters_using_rbf_kernel_32_0.png)
 

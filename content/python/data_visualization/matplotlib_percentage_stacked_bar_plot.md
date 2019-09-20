@@ -180,5 +180,5 @@ plt.show()
 ```
 
 
-![png](matplotlib_percentage_stacked_bar_plot_6_0.png)
+![png](matplotlib_percentage_stacked_bar_plot_files/matplotlib_percentage_stacked_bar_plot_6_0.png)
 

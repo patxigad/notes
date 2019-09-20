@@ -58,5 +58,5 @@ plt.show()
 ```
 
 
-![png](enhance_contrast_of_color_image_12_0.png)
+![png](enhance_contrast_of_color_image_files/enhance_contrast_of_color_image_12_0.png)
 

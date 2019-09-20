@@ -77,5 +77,5 @@ plt.show()
 ```
 
 
-![png](feature_importance_11_0.png)
+![png](feature_importance_files/feature_importance_11_0.png)
 

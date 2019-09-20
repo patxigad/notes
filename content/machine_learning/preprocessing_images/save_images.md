@@ -29,7 +29,7 @@ plt.show()
 ```
 
 
-![png](save_images_4_0.png)
+![png](save_images_files/save_images_4_0.png)
 
 
 ## Save Image

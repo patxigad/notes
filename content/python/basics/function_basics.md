@@ -33,7 +33,7 @@ print_max(3,4)
 ```
 
     4 is maximum
-
+    
 
 Note: By default, variables created within functions are local to the function. But you can create a global function that IS defined outside the function.
 
@@ -72,7 +72,7 @@ func()
 
     x is 50
     Changed global x to 2
-
+    
 
 ## Print x
 
@@ -105,7 +105,7 @@ say('!', 5, 10)
 
     ! !!!
     !!!!! !!!!!!!!!!
-
+    
 
 ## VarArgs Parameters (i.e. unlimited number of parameters)
 - \* denotes that all positonal arguments from that point to next arg are used

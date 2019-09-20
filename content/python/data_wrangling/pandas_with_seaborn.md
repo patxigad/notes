@@ -89,7 +89,7 @@ sns.lmplot('x', 'y', data=df, fit_reg=False)
 
 
 
-![png](pandas_with_seaborn_6_1.png)
+![png](pandas_with_seaborn_files/pandas_with_seaborn_6_1.png)
 
 
 ## Density Plot
@@ -107,7 +107,7 @@ sns.kdeplot(df.y)
 
 
 
-![png](pandas_with_seaborn_8_1.png)
+![png](pandas_with_seaborn_files/pandas_with_seaborn_8_1.png)
 
 
 
@@ -123,7 +123,7 @@ sns.kdeplot(df.y, df.x)
 
 
 
-![png](pandas_with_seaborn_9_1.png)
+![png](pandas_with_seaborn_files/pandas_with_seaborn_9_1.png)
 
 
 
@@ -139,7 +139,7 @@ sns.distplot(df.x)
 
 
 
-![png](pandas_with_seaborn_10_1.png)
+![png](pandas_with_seaborn_files/pandas_with_seaborn_10_1.png)
 
 
 ## Histogram
@@ -151,7 +151,7 @@ sns.rugplot(df.x);
 ```
 
 
-![png](pandas_with_seaborn_12_0.png)
+![png](pandas_with_seaborn_files/pandas_with_seaborn_12_0.png)
 
 
 ## Boxplot 
@@ -169,7 +169,7 @@ sns.boxplot([df.y, df.x])
 
 
 
-![png](pandas_with_seaborn_14_1.png)
+![png](pandas_with_seaborn_files/pandas_with_seaborn_14_1.png)
 
 
 ## Violin Plot
@@ -187,7 +187,7 @@ sns.violinplot([df.y, df.x])
 
 
 
-![png](pandas_with_seaborn_16_1.png)
+![png](pandas_with_seaborn_files/pandas_with_seaborn_16_1.png)
 
 
 ## Heatmap
@@ -205,7 +205,7 @@ sns.heatmap([df.y, df.x], annot=True, fmt="d")
 
 
 
-![png](pandas_with_seaborn_18_1.png)
+![png](pandas_with_seaborn_files/pandas_with_seaborn_18_1.png)
 
 
 ## Clustermap
@@ -223,5 +223,5 @@ sns.clustermap(df)
 
 
 
-![png](pandas_with_seaborn_20_1.png)
+![png](pandas_with_seaborn_files/pandas_with_seaborn_20_1.png)
 

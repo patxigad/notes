@@ -70,5 +70,5 @@ plt.show()
 ```
 
 
-![png](ski-tomasi_corner_detector_12_0.png)
+![png](ski-tomasi_corner_detector_files/ski-tomasi_corner_detector_12_0.png)
 

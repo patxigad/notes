@@ -60,5 +60,5 @@ plt.show()
 ```
 
 
-![png](using_mean_color_as_a_feature_10_0.png)
+![png](using_mean_color_as_a_feature_files/using_mean_color_as_a_feature_10_0.png)
 

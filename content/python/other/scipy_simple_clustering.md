@@ -48,7 +48,7 @@ print('year 3 battles:', year_3[0:3])
     year 3 battles: [[-0.54820297 -0.97483204]
      [ 0.12813873  0.55198748]
      [-0.55677223 -0.68900608]]
-
+    
 
 ### Pool all three years of coordinates
 
@@ -201,7 +201,7 @@ print(cluster_3[0:3])
     [[-3.90607071 -5.20880154]
      [-4.14244415 -4.52520445]
      [-6.01162308 -5.53489708]]
-
+    
 
 ### Plot all the battles, color each battle by cluster
 
@@ -221,5 +221,5 @@ plt.scatter(battles[:,0], battles[:,1], s=100, c=identified)
 
 
 
-![png](scipy_simple_clustering_26_1.png)
+![png](scipy_simple_clustering_files/scipy_simple_clustering_26_1.png)
 

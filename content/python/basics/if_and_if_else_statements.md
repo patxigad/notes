@@ -26,7 +26,7 @@ if conflict_active == 1:
 ```
 
     The conflict is active.
-
+    
 
 ### If the conflict is active print a statement, if not, print a different statement
 
@@ -39,7 +39,7 @@ else:
 ```
 
     The conflict is active.
-
+    
 
 ### If the conflict is active print a statement, if not, print a different statement, if unknown, state a third statement.
 
@@ -54,4 +54,4 @@ else:
 ```
 
     The conflict is active.
-
+    

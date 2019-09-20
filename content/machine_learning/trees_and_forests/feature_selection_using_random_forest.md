@@ -117,7 +117,7 @@ for feature in zip(feat_labels, clf.feature_importances_):
     ('Sepal Width', 0.016255033655398394)
     ('Petal Length', 0.45028123999239533)
     ('Petal Width', 0.42322090307156124)
-
+    
 
 The scores above are the importance scores for each variable. There are two things to note. First, all the importance scores add up to 100%. Second, `Petal Length` and `Petal Width` are far more important than the other two features. Combined, `Petal Length` and `Petal Width` have an importance of ~0.86! Clearly these are the most importance features.
 
@@ -155,7 +155,7 @@ for feature_list_index in sfm.get_support(indices=True):
 
     Petal Length
     Petal Width
-
+    
 
 ## Create A Data Subset With Only The Most Important Features
 

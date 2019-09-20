@@ -160,5 +160,5 @@ plt.show()
 ```
 
 
-![png](matplotlib_grouped_bar_plot_6_0.png)
+![png](matplotlib_grouped_bar_plot_files/matplotlib_grouped_bar_plot_6_0.png)
 

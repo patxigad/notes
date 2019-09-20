@@ -19,7 +19,7 @@ from keras.utils import plot_model
 ```
 
     Using TensorFlow backend.
-
+    
 
 ## Construct Neural Network Architecture
 
@@ -49,7 +49,7 @@ SVG(model_to_dot(network, show_shapes=True).create(prog='dot', format='svg'))
 
 
 
-![svg](visualize_neural_network_architecture_6_0.svg)
+![svg](visualize_neural_network_architecture_files/visualize_neural_network_architecture_6_0.svg)
 
 
 

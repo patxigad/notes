@@ -252,7 +252,7 @@ plt.show()
 ```
 
 
-![png](matplotlib_histogram_6_0.png)
+![png](matplotlib_histogram_files/matplotlib_histogram_6_0.png)
 
 
 ## Make plot with fixed number of bins
@@ -307,5 +307,5 @@ plt.show()
 ```
 
 
-![png](matplotlib_histogram_8_0.png)
+![png](matplotlib_histogram_files/matplotlib_histogram_8_0.png)
 

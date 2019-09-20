@@ -42,5 +42,5 @@ plt.show()
 ```
 
 
-![png](enhance_contrast_of_greyscale_image_8_0.png)
+![png](enhance_contrast_of_greyscale_image_files/enhance_contrast_of_greyscale_image_8_0.png)
 

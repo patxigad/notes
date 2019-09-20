@@ -51,7 +51,7 @@ for datum in data:
 
     CPU times: user 2min 2s, sys: 1.7 s, total: 2min 4s
     Wall time: 2min 8s
-
+    
 
 ## Parallelism Approach
 
@@ -77,4 +77,4 @@ pool.join()
 
     CPU times: user 1min 56s, sys: 1.59 s, total: 1min 57s
     Wall time: 1min 57s
-
+    

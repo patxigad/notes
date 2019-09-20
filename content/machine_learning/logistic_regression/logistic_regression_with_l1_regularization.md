@@ -139,6 +139,6 @@ for c in C:
     Training accuracy: 0.5
     Test accuracy: 0.5
     
-
+    
 
 Notice that as `C` decreases the model coefficients become smaller (for example from `4.36276075` when `C=10` to `0.0.97175097` when `C=0.1`), until at `C=0.001` all the coefficients are zero. This is the effect of the regularization penalty becoming more prominent.

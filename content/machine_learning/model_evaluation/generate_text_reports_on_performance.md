@@ -69,6 +69,6 @@ print(classification_report(y_test, y_hat, target_names=class_names))
     
     avg / total       0.91      0.84      0.84        38
     
-
+    
 
 Note: Support refers to the number of observations in each class.

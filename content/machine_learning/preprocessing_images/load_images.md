@@ -29,7 +29,7 @@ plt.show()
 ```
 
 
-![png](load_images_4_0.png)
+![png](load_images_files/load_images_4_0.png)
 
 
 ## Load Image As RGB
@@ -48,7 +48,7 @@ plt.show()
 ```
 
 
-![png](load_images_6_0.png)
+![png](load_images_files/load_images_6_0.png)
 
 
 ## View Image Data

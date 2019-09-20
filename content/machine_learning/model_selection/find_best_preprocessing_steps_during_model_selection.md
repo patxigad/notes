@@ -95,4 +95,4 @@ print('Best C:', best_model.best_estimator_.get_params()['classifier__C'])
     Best Number Of Princpal Components: 3
     Best Penalty: l1
     Best C: 59.9484250319
-
+    

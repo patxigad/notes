@@ -520,7 +520,7 @@ for name, group in df.groupby('regiment'):
     9    Scouts     1st  Piger             3             70
     10   Scouts     2nd  Riani             2             62
     11   Scouts     2nd    Ali             3             70
-
+    
 
 ### Group by columns
 

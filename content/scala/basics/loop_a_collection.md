@@ -24,7 +24,7 @@ vector.foreach((i: Any) => println(i, i.getClass.getSimpleName))
     (Male,String)
     (2,Integer)
     (true,Boolean)
-
+    
 
 
 ```scala
@@ -40,4 +40,4 @@ vector.foreach {
     Man
     Something Else
     Something Else
-
+    

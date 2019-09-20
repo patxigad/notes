@@ -35,7 +35,7 @@ warEnd = battleDeaths[7:10]; print('Death from battles at the end of war:', warE
     Death from battles at the start of war: [1245 2732 3853]
     Death from battles at the middle of war: [4824 5292 6184 7282]
     Death from battles at the end of war: [81393   932 10834]
-
+    
 
 
 ```python

@@ -58,7 +58,7 @@ Image(graph.create_png())
 
 
 
-![png](visualize_a_decision_tree_8_0.png)
+![png](visualize_a_decision_tree_files/visualize_a_decision_tree_8_0.png)
 
 
 

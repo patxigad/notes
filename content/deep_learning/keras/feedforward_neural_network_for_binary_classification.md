@@ -22,7 +22,7 @@ np.random.seed(0)
 ```
 
     Using TensorFlow backend.
-
+    
 
 ## Load Movie Review Data
 
@@ -97,4 +97,4 @@ history = network.fit(train_features, # Features
     25000/25000 [==============================] - 1s - loss: 0.3241 - acc: 0.8646 - val_loss: 0.3261 - val_acc: 0.8626
     Epoch 3/3
     25000/25000 [==============================] - 2s - loss: 0.3120 - acc: 0.8700 - val_loss: 0.3268 - val_acc: 0.8593
-
+    

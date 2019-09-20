@@ -23,7 +23,7 @@ np.random.seed(0)
 ```
 
     Using TensorFlow backend.
-
+    
 
 ## Load Movie Review Text Data
 

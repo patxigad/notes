@@ -35,7 +35,7 @@ c = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.RdYlGn)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_6_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_6_0.png)
 
 
 
@@ -44,7 +44,7 @@ c1 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.Blues)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_7_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_7_0.png)
 
 
 
@@ -53,7 +53,7 @@ c2 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.BrBG)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_8_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_8_0.png)
 
 
 
@@ -62,7 +62,7 @@ c3 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.Greens)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_9_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_9_0.png)
 
 
 
@@ -71,7 +71,7 @@ c4 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.RdGy)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_10_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_10_0.png)
 
 
 
@@ -80,7 +80,7 @@ c5 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.YlOrRd)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_11_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_11_0.png)
 
 
 
@@ -89,7 +89,7 @@ c6 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.autumn)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_12_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_12_0.png)
 
 
 
@@ -98,7 +98,7 @@ c7 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.binary)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_13_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_13_0.png)
 
 
 
@@ -107,7 +107,7 @@ c8 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.gist_earth)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_14_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_14_0.png)
 
 
 
@@ -116,7 +116,7 @@ c9 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.gist_heat)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_15_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_15_0.png)
 
 
 
@@ -125,7 +125,7 @@ c10 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.hot)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_16_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_16_0.png)
 
 
 
@@ -134,7 +134,7 @@ c11 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.spring)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_17_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_17_0.png)
 
 
 
@@ -143,7 +143,7 @@ c12 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.summer)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_18_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_18_0.png)
 
 
 
@@ -152,7 +152,7 @@ c12 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.winter)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_19_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_19_0.png)
 
 
 
@@ -161,7 +161,7 @@ c13 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.bone)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_20_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_20_0.png)
 
 
 
@@ -170,7 +170,7 @@ c14 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.cool)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_21_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_21_0.png)
 
 
 
@@ -179,7 +179,7 @@ c15 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.YlGn)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_22_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_22_0.png)
 
 
 
@@ -188,7 +188,7 @@ c16 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.RdBu)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_23_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_23_0.png)
 
 
 
@@ -197,7 +197,7 @@ c17 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.PuOr)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_24_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_24_0.png)
 
 
 
@@ -206,5 +206,5 @@ c18 = plt.scatter(theta, r, c=colors, s=area, cmap=plt.cm.Oranges)
 ```
 
 
-![png](set_the_color_of_a_matplotlib_25_0.png)
+![png](set_the_color_of_a_matplotlib_files/set_the_color_of_a_matplotlib_25_0.png)
 

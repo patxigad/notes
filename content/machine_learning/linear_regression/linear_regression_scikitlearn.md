@@ -107,7 +107,7 @@ df.plot(x='friendly_battledeaths', y='enemy_battledeaths', kind='scatter')
 
 
 
-![png](linear_regression_scikitlearn_12_1.png)
+![png](linear_regression_scikitlearn_files/linear_regression_scikitlearn_12_1.png)
 
 
 ## Break Data Up Into Training And Test Datasets

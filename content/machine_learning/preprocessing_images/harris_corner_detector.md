@@ -71,5 +71,5 @@ plt.show()
 ```
 
 
-![png](harris_corner_detector_13_0.png)
+![png](harris_corner_detector_files/harris_corner_detector_13_0.png)
 

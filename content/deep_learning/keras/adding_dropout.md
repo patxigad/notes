@@ -26,7 +26,7 @@ np.random.seed(0)
 ```
 
     Using TensorFlow backend.
-
+    
 
 ## Load IMDB Movie Review Data
 

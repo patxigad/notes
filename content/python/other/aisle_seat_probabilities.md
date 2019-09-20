@@ -295,7 +295,7 @@ pd.Series(aisle_probability, index=seats).plot(kind='bar', # set y to range betw
 
 
 
-![png](aisle_seat_probabilities_20_1.png)
+![png](aisle_seat_probabilities_files/aisle_seat_probabilities_20_1.png)
 
 
 So there we have it! If given a boarding pass with seat C you have a 86% probability of being in an aisle seat!

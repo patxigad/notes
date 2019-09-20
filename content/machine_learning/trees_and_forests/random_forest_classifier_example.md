@@ -313,7 +313,7 @@ print('Number of observations in the test data:',len(test))
 
     Number of observations in the training data: 118
     Number of observations in the test data: 32
-
+    
 
 ## Preprocess Data
 

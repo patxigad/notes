@@ -44,7 +44,7 @@ population['numbers'].hist(bins=100)
 
 
 
-![png](demonstrate_the_central_limit_theorem_5_1.png)
+![png](demonstrate_the_central_limit_theorem_files/demonstrate_the_central_limit_theorem_5_1.png)
 
 
 ## View the True Mean Of Population
@@ -92,7 +92,7 @@ pd.Series(sampled_means).hist(bins=100)
 
 
 
-![png](demonstrate_the_central_limit_theorem_11_1.png)
+![png](demonstrate_the_central_limit_theorem_files/demonstrate_the_central_limit_theorem_11_1.png)
 
 
 This is the critical chart, remember that the population distribution was uniform, however, this distribution is approaching normality. This is the key point to the central limit theory, and the reason we can assume sample means are not bias.
@@ -124,4 +124,4 @@ print('The Mean Sample Mean is only %f different the True Population mean!' % er
 ```
 
     The Mean Sample Mean is only 2.359302 different the True Population mean!
-
+    

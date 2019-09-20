@@ -65,7 +65,7 @@ convert_dollars_to_cents(12.45)
 ```
 
     INFO:root:convert_dollars_to_cents run successfully
-
+    
 
 
 
@@ -83,4 +83,4 @@ convert_dollars_to_cents("dsfsd")
 ```
 
     ERROR:root:Function input is <class 'str'>, should be <class 'int'>
-
+    

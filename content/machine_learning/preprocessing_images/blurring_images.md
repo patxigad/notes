@@ -42,5 +42,5 @@ plt.show()
 ```
 
 
-![png](blurring_images_8_0.png)
+![png](blurring_images_files/blurring_images_8_0.png)
 

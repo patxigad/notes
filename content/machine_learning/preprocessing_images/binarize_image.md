@@ -50,5 +50,5 @@ plt.show()
 ```
 
 
-![png](binarize_image_8_0.png)
+![png](binarize_image_files/binarize_image_8_0.png)
 

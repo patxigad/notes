@@ -58,4 +58,4 @@ print('Reduced number of features:', X_pca.shape[1])
 
     Original number of features: 64
     Reduced number of features: 54
-
+    

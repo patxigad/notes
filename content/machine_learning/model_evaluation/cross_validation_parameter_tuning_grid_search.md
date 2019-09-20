@@ -126,7 +126,7 @@ print('Best score for data1:', clf.best_score_)
 ```
 
     Best score for data1: 0.942
-
+    
 
 Which parameters are the best? We can tell scikit-learn to display them:
 
@@ -141,7 +141,7 @@ print('Best Gamma:',clf.best_estimator_.gamma)
     Best C: 10
     Best Kernel: rbf
     Best Gamma: 0.001
-
+    
 
 This tells us that the most accurate model uses `C=10`, the `rbf` kernel, and `gamma=0.001`.
 

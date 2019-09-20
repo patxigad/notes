@@ -62,5 +62,5 @@ plt.show()
 ```
 
 
-![png](probability_mass_functions_10_0.png)
+![png](probability_mass_functions_files/probability_mass_functions_10_0.png)
 

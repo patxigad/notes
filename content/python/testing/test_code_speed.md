@@ -46,7 +46,7 @@ cProfile.run('slow_function()', sort='time')
             1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
     
     
-
+    
 
 ## How To Read cProfile's Output
 
@@ -67,4 +67,4 @@ slow_function()
 ```
 
     1 loop, best of 3: 12.9 s per loop
-
+    

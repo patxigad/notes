@@ -42,5 +42,5 @@ plt.show()
 ```
 
 
-![png](cropping_images_8_0.png)
+![png](cropping_images_files/cropping_images_8_0.png)
 

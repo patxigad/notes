@@ -74,5 +74,5 @@ plt.axis("off"), plt.show();
 ```
 
 
-![png](plot_support_vector_classifier_hyperplane_11_0.png)
+![png](plot_support_vector_classifier_hyperplane_files/plot_support_vector_classifier_hyperplane_11_0.png)
 

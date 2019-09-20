@@ -26,6 +26,6 @@ for army, unit in zip(armies, units):
     Red Army has the following options: Red Infantry
     Blue Army has the following options: Blue Armor
     Green Army has the following options: Green Artillery
-
+    
 
 Notice that the fourth item of the second list, `orange aircraft`, did not display.

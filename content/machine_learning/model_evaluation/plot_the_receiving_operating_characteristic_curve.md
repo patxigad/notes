@@ -89,5 +89,5 @@ plt.show()
 ```
 
 
-![png](plot_the_receiving_operating_characteristic_curve_13_0.png)
+![png](plot_the_receiving_operating_characteristic_curve_files/plot_the_receiving_operating_characteristic_curve_13_0.png)
 

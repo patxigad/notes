@@ -70,5 +70,5 @@ plt.show()
 ```
 
 
-![png](isolate_colors_14_0.png)
+![png](isolate_colors_files/isolate_colors_14_0.png)
 

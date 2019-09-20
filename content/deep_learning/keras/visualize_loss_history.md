@@ -23,7 +23,7 @@ np.random.seed(0)
 ```
 
     Using TensorFlow backend.
-
+    
 
 ## Load Movie Review Data
 
@@ -102,5 +102,5 @@ plt.show();
 ```
 
 
-![png](visualize_loss_history_12_0.png)
+![png](visualize_loss_history_files/visualize_loss_history_12_0.png)
 

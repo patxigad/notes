@@ -79,7 +79,7 @@ print('Best C:', best_model.best_estimator_.get_params()['C'])
 
     Best Penalty: l1
     Best C: 7.74263682681
-
+    
 
 ## Predict Using Best Model
 

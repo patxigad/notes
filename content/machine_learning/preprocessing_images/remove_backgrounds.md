@@ -81,5 +81,5 @@ plt.show()
 ```
 
 
-![png](remove_backgrounds_13_0.png)
+![png](remove_backgrounds_files/remove_backgrounds_13_0.png)
 

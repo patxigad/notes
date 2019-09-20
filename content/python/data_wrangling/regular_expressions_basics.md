@@ -65,7 +65,7 @@ if re_search:
 ```
 
     brown
-
+    
 
 ## re.match
 
@@ -92,7 +92,7 @@ else:
 ```
 
     No matches
-
+    
 
 ## re.split
 
@@ -124,4 +124,4 @@ re_sub = re.sub('e', 'E', text, 3); print(re_sub)
 ```
 
     ThE quick brown fox jumpEd ovEr the lazy black bear.
-
+    

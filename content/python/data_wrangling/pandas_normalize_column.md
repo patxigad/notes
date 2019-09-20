@@ -113,7 +113,7 @@ df['score'].plot(kind='bar')
 
 
 
-![png](pandas_normalize_column_5_1.png)
+![png](pandas_normalize_column_files/pandas_normalize_column_5_1.png)
 
 
 ## Normalize The Column
@@ -224,5 +224,5 @@ df_normalized.plot(kind='bar')
 
 
 
-![png](pandas_normalize_column_9_1.png)
+![png](pandas_normalize_column_files/pandas_normalize_column_9_1.png)
 

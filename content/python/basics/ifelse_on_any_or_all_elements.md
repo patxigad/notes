@@ -77,7 +77,7 @@ else:
 ```
 
     Does any cells equal 3? Yes!
-
+    
 
 ## Do all cells equal 3?
 
@@ -94,4 +94,4 @@ else:
 ```
 
     Do all cells equal 3? No!
-
+    

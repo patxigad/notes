@@ -39,7 +39,7 @@ print(df)
     7  2014-05-03 18:47:05.385109             25
     8  2014-05-04 18:47:05.436523             62
     9  2014-05-04 18:47:05.486877             41
-
+    
 
 ### Convert `df['date']` from string to datetime
 
@@ -771,5 +771,5 @@ df.resample('D').sum().plot()
 
 
 
-![png](pandas_time_series_basics_29_1.png)
+![png](pandas_time_series_basics_files/pandas_time_series_basics_29_1.png)
 

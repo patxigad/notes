@@ -186,5 +186,5 @@ plt.show()
 ```
 
 
-![png](matplotlib_pie_chart_7_0.png)
+![png](matplotlib_pie_chart_files/matplotlib_pie_chart_7_0.png)
 

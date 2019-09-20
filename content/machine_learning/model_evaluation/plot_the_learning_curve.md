@@ -74,5 +74,5 @@ plt.show()
 ```
 
 
-![png](plot_the_learning_curve_7_0.png)
+![png](plot_the_learning_curve_files/plot_the_learning_curve_7_0.png)
 

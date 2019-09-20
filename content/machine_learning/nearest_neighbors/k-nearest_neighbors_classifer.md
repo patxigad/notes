@@ -122,7 +122,7 @@ seaborn.lmplot('test_1', 'test_2', data=training_data, fit_reg=False,hue="outcom
 
 
 
-![png](k-nearest_neighbors_classifer_9_1.png)
+![png](k-nearest_neighbors_classifer_files/k-nearest_neighbors_classifer_9_1.png)
 
 
 ## Convert Data Into np.arrays

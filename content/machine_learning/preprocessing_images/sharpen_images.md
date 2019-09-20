@@ -47,5 +47,5 @@ plt.show()
 ```
 
 
-![png](sharpen_images_8_0.png)
+![png](sharpen_images_files/sharpen_images_8_0.png)
 

@@ -54,6 +54,6 @@ while running:
     No, it is higher.
     No, it is higher.
     Correct!
-
+    
 
 By the output, you can see that the while script keeping generating guesses and checking them until guess matches deaths, in which case the script stops.

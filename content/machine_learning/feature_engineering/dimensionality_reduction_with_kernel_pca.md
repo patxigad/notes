@@ -46,4 +46,4 @@ print('Reduced number of features:', X_kpca.shape[1])
 
     Original number of features: 2
     Reduced number of features: 1
-
+    

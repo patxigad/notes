@@ -59,7 +59,7 @@ print('Reduced number of features:', X_sparse_tsvd.shape[1])
 
     Original number of features: 64
     Reduced number of features: 10
-
+    
 
 ## View Percent Of Variance Explained By New Features
 

@@ -130,5 +130,5 @@ plt.show()
 ```
 
 
-![png](matplotlib_bar_plot_6_0.png)
+![png](matplotlib_bar_plot_files/matplotlib_bar_plot_6_0.png)
 

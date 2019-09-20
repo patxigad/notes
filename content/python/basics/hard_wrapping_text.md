@@ -38,4 +38,4 @@ print(textwrap.fill(excerpt, 50))
     against the big green autobus at the terminal and
     the Café des Amateurs was crowded and the windows
     misted over from the heat and the smoke inside.
-
+    

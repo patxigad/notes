@@ -41,4 +41,4 @@ for country in chain(allies, enemies):
     Mexico
     United Kingdom
     France
-
+    

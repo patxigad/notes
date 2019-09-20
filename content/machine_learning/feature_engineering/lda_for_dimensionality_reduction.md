@@ -47,7 +47,7 @@ print('Reduced number of features:', X_lda.shape[1])
 
     Original number of features: 4
     Reduced number of features: 1
-
+    
 
 ## View Percentage Of Variance Retained By New Features
 
