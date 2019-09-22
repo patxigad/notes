@@ -1,11 +1,3 @@
----
-title: "K-Nearest Neighbors Classification"
-author: "Chris Albon"
-date: 2017-12-20T11:53:49-07:00
-description: "A quick guide to using k-nearest neighbor using numpy and scikit."
-type: technical_note
-draft: false
----
 K-nearest neighbors classifier (KNN) is a simple and powerful classification learner. 
 
 KNN has three basic parts:
@@ -54,7 +46,7 @@ training_data.head()
     .dataframe thead th {
         text-align: left;
     }
-
+    
     .dataframe tbody tr th {
         vertical-align: top;
     }
